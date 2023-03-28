@@ -14,4 +14,7 @@ myJS.number = 25;
 const jsonData = JSON.stringify(myJS);
 
 fs.writeFileSync("1-json.json", jsonData);
-/* dude i have learned way too much things in too less of a times */
+
+
+/* agar modiefied hai to wo orange ho and by defalut wo staged nai hoga.
+but agar hum usko stage kar de add command se to wo stage me jaega but orange hi dikhega */

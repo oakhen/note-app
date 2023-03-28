@@ -1,0 +1,10 @@
+[
+  { "some": "string", "name": "some name", "number": 24 },
+  {
+    "titel": "this is my title",
+    "author": "some name",
+    "lanuguage": "english"
+  },
+
+  { "some": "string", "name": "some name", "number": 24 }
+]

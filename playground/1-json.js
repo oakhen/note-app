@@ -14,3 +14,4 @@ myJS.number = 25;
 const jsonData = JSON.stringify(myJS);
 
 fs.writeFileSync("1-json.json", jsonData);
+/* dude i have learned way too much things in too less of a times */

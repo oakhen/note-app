@@ -105,3 +105,7 @@ const loadNotes = () => {
     return [];
   }
 };
+
+
+/* i think that this note app was complete and i have almost forgot what
+i have done i it */
